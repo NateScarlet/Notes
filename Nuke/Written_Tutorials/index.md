@@ -13,7 +13,13 @@
 
 3. 解压到Nuke_Tutorial文件夹
 
-   Nuke_Tutorial应在
+   建议将Nuke_Tutorial放在
 
    * `C:\Documents and Settings\All Users\Application Data\Nuke_Tutorials`(Windows)
    * ` ~/Nuke_Tutorials `(Mac OS或者Linux)
+
+## 备用载点
+
+鉴于国内访问amazonaws有困难, 提供教程资产下载备用:
+
+* [教程1资产 百度网盘(160M)](http://pan.baidu.com/s/1geCuktP)
