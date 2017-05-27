@@ -2,6 +2,7 @@
 
 [原文](https://github.com/PowerShell/PowerShell/blob/master/docs/learning-powershell/powershell-beginners-guide.md)
 
+
 PowerShell入门指南
 ====
 
@@ -67,7 +68,6 @@ Handles   NPM(K)    PM(K)     WS(K)    CPU(s)     Id   ProcessName
 -------  ------     -----     -----    ------     --   -----------
     -      -          -          74   403.150   1209   firefox
     -      -          -          21    20.220    449   powershell
-
 ```
 
 **2. Clear-Host**: 清除主机程序中的显示。
@@ -96,10 +96,10 @@ Alias           gmo -> Get-Module
 Alias           ri -> Remove-Item
 Alias           type -> Get-Content
 …
-
+```
 As you can see "cls" is an alias of Clear-Host.
 Now try it:
-
+```PowerShell
 PS /> Get-Process
 PS /> cls
 ```
